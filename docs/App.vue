@@ -61,7 +61,7 @@
 
 <script>
 import VueAutosuggest from "../src/Autosuggest.vue";
-import characters from './lotr-character'
+import characters from './yasir'
 
 function updateCSSVariables(theme) {
   for (const key in theme) {
