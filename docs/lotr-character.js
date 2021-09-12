@@ -1,6 +1,6 @@
 export default [
   {
-    "Name": "Adanalı",
+    "Name": "Adanali",
     "Url": "http://lotr.wikia.com//wiki/Adanel",
     "Race": "Human"
   },
